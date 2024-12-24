@@ -1,9 +1,0 @@
-{
-    "DB Access to Staging": {
-        "name": "Database Access to Staging",
-        "description": "Grants access to all staging RDS databases",
-        "account_id": "992382703898",
-        "permission_set": "ECRReadOnly",
-        "session_duration": "PT5M"
-    }
-} 
